@@ -2,7 +2,7 @@
 
 An elegant React.js Music Application. 
 
-Check out the demo-site [here]()
+Check out the demo-site [here](https://weplayy.netlify.app/)
 
 # Contributing
 
