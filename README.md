@@ -1,8 +1,8 @@
-# Project Lyrics
+# weplay Music application
 
-Develop an elegant React.js Music Application. 
+An elegant React.js Music Application. 
 
-Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+Check out the demo-site [here]()
 
 # Contributing
 
